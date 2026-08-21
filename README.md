@@ -1,7 +1,7 @@
 # Efficient-Real-Time-ALPR
 
 <p align="center">
-  <img src="docs/figures/intro1.png" width="800">
+  <img src="docs/figures/intro1.png" width="350">
   <br>
   <em>Visual samples of challenging real-world license plates (motion blur, diverse layouts, low light) that Efficient-Real-Time-ALPR is built to handle.</em>
 </p>
